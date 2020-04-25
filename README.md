@@ -1,13 +1,7 @@
 Telegram bot for Evernote
 =========================
-[![Build status](https://travis-ci.org/djudman/evernote-telegram-bot.svg?branch=master)](https://travis-ci.org/djudman/evernote-telegram-bot?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/djudman/evernote-telegram-bot/badge.svg?branch=master)](https://coveralls.io/github/djudman/evernote-telegram-bot?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1d23d48c1a7370b7b12f/maintainability)](https://codeclimate.com/github/djudman/evernote-telegram-bot/maintainability)
 
 This bot can save everything that you send to your Evernote account.
-
-You can use this bot in Telegram: https://t.me/evernoterobot  
-*Or* you can use *your own* telegram bot and your own server, then see [Installation](#Installation)
 
 # Installation
 If you have some reasons do not use my bot deployed on my server, you can use
@@ -35,7 +29,7 @@ your own installation.
 
 * Clone source code to your server
     ```
-    git clone https://github.com/djudman/evernote-telegram-bot.git
+    git clone https://github.com/nsuvorov83/evernote-telegram-bot.git
     ```
 * Build image
     ```
